@@ -1,1 +1,11 @@
+title: Bahadoor Kattubadi # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Aspiring DevOps Engineer
+  <br><br>
+  <a href="mailto:bahadoor1796@rguktrkv.ac.in">bahadoor1796@rguktrkv.ac.in</a>
+  <br>
+  <a href="linkedin.com/in/bahadoor-k-344854118/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/bahadoor009/">Gihub</a> 
 theme: jekyll-theme-minimal
