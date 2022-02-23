@@ -107,6 +107,32 @@ GPA 7.44
 <b>*</b> Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
 
 ---
+
+### Projects
+<b>*</b> Project on creating a portfolio website in github. (<a href="http://bahadoor009.github.io/">link </a>)<br>
+<b>*</b> Project on creating an archetype for java and web applications to perform various functions like building and testing using Maven. (<a href="https://bahadoor009.github.io/maven/">link </a>)<br>
+<b>*</b> Project on integrating Nexus with Maven to store artifacts. (<a href="https://bahadoor009.github.io/maven/">link </a>)<br>
+<b>*</b> Project on creating a customized image using Docker. And linking two containers using docker networking. (<a href="https://bahadoor009.github.io/docker/">link </a>)<br>
+<b>*</b> Project on performing CI/CD using Jenkins on AWS EC2 instances. (<a href="https://bahadoor009.github.io/jenkins/">link </a>)<br>
+<b>*</b> Project on configuration management using Ansible. (<a href="https://bahadoor009.github.io/ansible/">link </a>)<br>
+
+---
+### Courses
+
+DevOps on AWS Specialization - COURSERA.
+AWS Cloud Technical Essentials (<a href="https://coursera.org/share/69db295c2d3a85633bd0d364dd9edfc9">link </a>)<br>
+DevOps on AWS : Code, Build, Test (<a href="https://coursera.org/share/e3c194bd963236f76731ac5c1d6176d9">link </a>)<br>
+DevOps on AWS : Release and Deploy (<a href="https://coursera.org/share/cf682cfcef871871fe862aa6aab1dc9c">link </a>)<br>
+DevOps on AWS : Operate and Monitor (<a href="http://bahadoor009.github.io/">edit cheyyali </a>)<br>
+
+---
+### Extra-Curricular
+
+<b>*</b> <b>Organizer</b> : Digital Marketing workshop, RGUKT-AP.
+<b>*</b> <b>Coordinator</b> :  Robotics Lab of IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k17, IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k18, IIIT RK Valley, RGUKT-AP. 3 days Workshop conducted by Career Development and Placement cell of IIIT RK Valley, RGUKT AP.
+<b>*</b> Worked as a <b>Web-casting Engineer</b> in 2014 General elections, Andhra Pradesh.
+
+---
 ### My Contents
 <a href="https://dayasanjay.github.io/linux/">Linux </a><br>
 <a href="https://dayasanjay.github.io/git/">Git </a><br>
