@@ -119,7 +119,7 @@ GPA 7.44
 ---
 ### Courses
 
-DevOps on AWS Specialization - COURSERA.
+DevOps on AWS Specialization - COURSERA.<br>
 AWS Cloud Technical Essentials (<a href="https://coursera.org/share/69db295c2d3a85633bd0d364dd9edfc9">link </a>)<br>
 DevOps on AWS : Code, Build, Test (<a href="https://coursera.org/share/e3c194bd963236f76731ac5c1d6176d9">link </a>)<br>
 DevOps on AWS : Release and Deploy (<a href="https://coursera.org/share/cf682cfcef871871fe862aa6aab1dc9c">link </a>)<br>
