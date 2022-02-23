@@ -1,6 +1,6 @@
-## Portfolio
+## Career Objective
 
-An enthusiastic and aspiring DevOps engineer who is a self-starter and capable to use technical skills for the organizational development in Software Engineering has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.
+To pursue a challenging and professionally satisfying career opportunity, which will enable me to actualize and maximize my potential to produce peak performance, where my knowledge and experience can be shared and enriched.
 
 ---
 
@@ -92,7 +92,26 @@ GPA 7.95
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+### Skill Summary
+<b>*</b> Familiar with <b>Amazon web services</b> (AWS).<br>
+<b>*</b> Ability to create projects in <b>Git</b>, set configuration for Git, setting Git environment variables.<br>
+<b>*</b> Experienced in using Continuous Integration tools like <b>Jenkins</b>.<br>
+<b>*</b> Hands on using <b>Maven</b> build tools such as build a project as per maven required life cycle.<br>
+<b>*</b> Hands on experience in configuration management tools like <b>Ansible</b>.<br>
+<b>*</b> Hands on playbooks for configuration and application deployments.<br>
+<b>*</b> Good Exposure to Containerization tools like <b>Docker</b> Engine.<br>
+<b>*</b> Experienced in using Orchestration tools like <b>Kubernetes</b>.<br>
+<b>*</b> Excellent understanding of technical trends, architectures and highly motivated to keep myself updated with current events, technologies in the software industry.<br> 
+<b>*</b> Exceptional learning skills, good at multitasking, hardworking, extensive knowledge in Design and Analysis, ability to achieve goals individually and also a great team player.<br>
+<b>*</b> Knowledge in all phases of software development life cycle from Analysis, Design, Development, testing and installation.<br>
+<b>*</b> Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+---
+### My Contents
+<a href="https://dayasanjay.github.io/linux/">Linux </a><br>
+<a href="https://dayasanjay.github.io/git/">Git </a><br>
+<a href="https://dayasanjay.github.io/maven/">Maven </a><br>
+<a href="https://dayasanjay.github.io/jenkins/">Jenkins </a><br>
+<a href="https://dayasanjay.github.io/docker/">Docker </a><br>
+<a href="https://dayasanjay.github.io/kubernetes/">Kubernetes </a><br>
+<a href="https://dayasanjay.github.io/ansible/">Ansible </a><br>
