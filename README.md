@@ -88,7 +88,7 @@ table, th, td {
 ## Education
 ### *Rajiv Gandhi University of Knowledge and Technologies - RK Valley*
 ### B.Tech - Mechanical Engineering (2013- 2017)
-GPA 7.95
+GPA 7.44
 
 ---
 
