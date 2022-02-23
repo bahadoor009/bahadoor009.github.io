@@ -128,9 +128,9 @@ DevOps on AWS : Operate and Monitor (<a href="http://bahadoor009.github.io/">edi
 ---
 ### Extra-Curricular
 
-<b>*</b> <b>Organizer</b> : Digital Marketing workshop, RGUKT-AP.
-<b>*</b> <b>Coordinator</b> :  Robotics Lab of IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k17, IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k18, IIIT RK Valley, RGUKT-AP. 3 days Workshop conducted by Career Development and Placement cell of IIIT RK Valley, RGUKT AP.
-<b>*</b> Worked as a <b>Web-casting Engineer</b> in 2014 General elections, Andhra Pradesh.
+<b>*</b> <b>Organizer</b> : Digital Marketing workshop, RGUKT-AP.<br>
+<b>*</b> <b>Coordinator</b> :  Robotics Lab of IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k17, IIIT RK Valley, RGUKT-AP. Mechanical Engineering Dept for Abhiyanth 2k18, IIIT RK Valley, RGUKT-AP. 3 days Workshop conducted by Career Development and Placement cell of IIIT RK Valley, RGUKT AP.<br>
+<b>*</b> Worked as a <b>Web-casting Engineer</b> in 2014 General elections, Andhra Pradesh.<br>
 
 ---
 ### My Contents
