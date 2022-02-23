@@ -123,7 +123,7 @@ DevOps on AWS Specialization - COURSERA.
 AWS Cloud Technical Essentials (<a href="https://coursera.org/share/69db295c2d3a85633bd0d364dd9edfc9">link </a>)<br>
 DevOps on AWS : Code, Build, Test (<a href="https://coursera.org/share/e3c194bd963236f76731ac5c1d6176d9">link </a>)<br>
 DevOps on AWS : Release and Deploy (<a href="https://coursera.org/share/cf682cfcef871871fe862aa6aab1dc9c">link </a>)<br>
-DevOps on AWS : Operate and Monitor (<a href="http://bahadoor009.github.io/">edit cheyyali </a>)<br>
+DevOps on AWS : Operate and Monitor (<a href="https://coursera.org/share/3510fdf387a17abe7f2d5c5cd4f6e1f3">link </a>)<br>
 
 ---
 ### Extra-Curricular
